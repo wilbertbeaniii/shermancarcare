@@ -12,11 +12,32 @@ Goal Statement
 
 Scope - First/Last and In/Out
 1st Process Step
+ Customer Engagement (
+
+Spoke with Sherman back in February about a website and have continued to stay in touch about it.
+)
+
 Last Process Step
-
+	Website Delivery {
+		We are moving testimonials and FAQ pages into the out of scope section because we do not want to hold up the delivery process.
+}
 In Scope:
-
+	{
+	1. 3 Page Website
+		a. Home Page
+		b. Services Page
+		c. Contact Page
+}
 Out of Scope:
+	(
+	1. 2 Pages
+		a. Testimonials Page
+		b. FAQ Page
+		C. About Us Page
+	2. SEO
+	3. Reviews on Yelp and Google
+)
+
 
 Business Case & Benefits
 The Business Case should address these questions:
