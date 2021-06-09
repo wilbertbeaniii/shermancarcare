@@ -1,4 +1,18 @@
 Project Charter
+
+Revision Round:
+1. Developers notes:
+	a. Menu bar color needs to reflect branding
+	b. SEO Project
+		I. Yelp Page
+		II. Google My Business Review Page
+	c. Testimonials Page
+	d. FAQ Page
+	e. Mobile Reviews (Dymeir)
+		I. iOS
+			a. Mobile hamburger menu color change to match branding.
+		II. Android
+
 Problem Statement
 The problem statement should address these questions:
 * What is wrong, not working and not meeting our customer’s needs?
@@ -47,7 +61,7 @@ The Business Case should address these questions:
 * How dopes it fit in with business initiatives and targets?
 
 Timeline
-Phase	Planned Completion Date	Actual
+Phase	Planned Completion Date 06/08/2021	Actual
 Define		
 Measure		
 Analyze		
