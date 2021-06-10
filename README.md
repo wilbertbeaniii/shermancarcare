@@ -1,5 +1,8 @@
 Project Charter
 
+Bug Issue found:
+WP Forms are not working as expected. Customer is not receiving emails from the form submissions. I will need to do additional research to find the solution and create a KB article. Potentially add whatever the steps are for the solution to the setup process.
+
 Revision Round:
 1. Developers notes:
 	a. Menu bar color needs to reflect branding
